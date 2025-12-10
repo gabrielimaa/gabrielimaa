@@ -1,8 +1,8 @@
 ### Olá, me chamo Gabriel  👋
 
 ![gabrielimaa GitHub stats](anuraghazra/github-readme-stats:master)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielimaa\&layout=compact&theme=transparent)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide=javascript,html)
 <!--
 **gabrielimaa/gabrielimaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
