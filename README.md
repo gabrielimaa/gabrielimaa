@@ -1,8 +1,6 @@
 ### Olá, me chamo Gabriel  👋
 
-![gabrielimaa GitHub stats](anuraghazra/github-readme-stats:master)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide=javascript,html)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **gabrielimaa/gabrielimaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
