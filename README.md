@@ -1,6 +1,6 @@
 ### Olá, me chamo Gabriel  👋
 
-![gabrielimaa GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielimaa&rank_icon=github&theme=transparent)
+![gabrielimaa GitHub stats](anuraghazra/github-readme-stats:master)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielimaa\&layout=compact&theme=transparent)
 
 <!--
